@@ -81,7 +81,7 @@ run the method:
 my_method_return_value = my_method(1)
 # Running my_method
 # => 2
-my_method_return_value
+
 # => 2
 ```
 
